@@ -1,0 +1,1 @@
+Personal configs for https://surf.suckless.org browser! Check their website for more!
